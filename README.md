@@ -21,4 +21,5 @@ Note that the CERN-OHL-P license does require attribution: please make sure to i
 ## Authors
 
 Copyright © Nicolai Electronics 2025
+
 Copyright © Nikolett 2025
