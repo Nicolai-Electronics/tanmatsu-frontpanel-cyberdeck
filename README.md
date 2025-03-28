@@ -8,7 +8,7 @@ This Kicad project makes use of [svg2shenzhen](https://github.com/badgeek/svg2sh
 
 When manufacturing these boards select **0.8mm** board thickness, **ENIG** surface finish and **Remove Mark**.
 
-The artwork on this frontpanel design has been created by [Nikolett (ankhaneko.art)](https://ankhaneko.art).
+The artwork on this frontpanel design has been created by [Ankhaneko](https://ankhaneko.art).
 
 ## License
 
@@ -22,4 +22,4 @@ Note that the CERN-OHL-P license does require attribution: please make sure to i
 
 Copyright © Nicolai Electronics 2025
 
-Copyright © Nikolett 2025
+Copyright © Ankhaneko 2025
